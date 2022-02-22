@@ -1,2 +1,2 @@
-# 100daysofCoding
+# 100days@python
 Regular coding
